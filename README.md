@@ -18,8 +18,8 @@
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/shahdec-log-ingestor.git
-cd shahdec-log-ingestor
+git clone https://github.com/YOUR_USERNAME/LogIngestor.git
+cd LogIngestor
 
 # Set up virtual env & install
 python -m venv env
